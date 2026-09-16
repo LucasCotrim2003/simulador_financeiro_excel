@@ -1,0 +1,28 @@
+﻿;VARIÁVEIS;;
+;Salário;R$ 5.000,00;
+;Rendimento da Carteira;0,80%;
+;Sugestão de Investimento;R$ 1.500,00;
+;;;
+;INVESTIMENTO MENSAL;;
+;Quanto investir por mês?;R$ 100,00;
+;Por quantos anos?;1;
+;Quanto de rendimento mensal?;1,079%;
+;Patrimonio acumulado?;R$ 1.273,84;
+;Rendimentos mensais?;R$ 10,19;
+;;;
+;CENÁRIOS;;DIVIDENDOS
+2;Quanto em 2 anos?;R$ 2.722,76;R$ 21,78
+5;Quanto em 5 anos?;R$ 8.377,69;R$ 67,02
+10;Quanto em 10 anos?;R$ 24.328,42;R$ 194,63
+20;Quanto em 20 anos?;R$ 112.519,84;R$ 900,16
+30;Quantos em 30 anos?;R$ 432.216,97;R$ 3.457,74
+;;;
+;PERFIL;CONSERVADOR;
+;VALOR A SER INVESTIDO POR MÊS;R$ 500;
+;Tipo de FII;Percentual Sugerido;Valores
+;Tijolo;50%;R$ 250
+;Papel;20%;R$ 100
+;Híbrido;10%;R$ 50
+;Desenvolvimento;0%;R$ 0
+;FOFs;15%;R$ 75
+;Hotelarias;5%;R$ 25

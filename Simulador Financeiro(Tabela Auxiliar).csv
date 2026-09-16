@@ -1,0 +1,21 @@
+﻿CHAVE;PERFIL;Tipo de FII;%
+Conservador-Tijolo;Conservador;Tijolo;50%
+Conservador-Papel;Conservador;Papel;20%
+Conservador-Híbrido;Conservador;Híbrido;10%
+Conservador-Desenvolvimento;Conservador;Desenvolvimento;0%
+Conservador-FOFs;Conservador;FOFs;15%
+Conservador-Hotelarias;Conservador;Hotelarias;5%
+CHAVE;PERFIL;Tipo de FII;%
+Moderado-Tijolo;Moderado;Tijolo;40%
+Moderado-Papel;Moderado;Papel;32%
+Moderado-Híbrido;Moderado;Híbrido;8%
+Moderado-Desenvolvimento;Moderado;Desenvolvimento;5%
+Moderado-FOFs;Moderado;FOFs;10%
+Moderado-Hotelarias;Moderado;Hotelarias;5%
+CHAVE;PERFIL;Tipo de FII;%
+Agressivo-Tijolo;Agressivo;Tijolo;10%
+Agressivo-Papel;Agressivo;Papel;50%
+Agressivo-Híbrido;Agressivo;Híbrido;5%
+Agressivo-Desenvolvimento;Agressivo;Desenvolvimento;20%
+Agressivo-FOFs;Agressivo;FOFs;5%
+Agressivo-Hotelarias;Agressivo;Hotelarias;10%
